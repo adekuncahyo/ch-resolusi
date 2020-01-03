@@ -2,11 +2,13 @@ Rencana App CH
 
 - Aplikasi 1
  - Aplikasi 1a
-   * Aplikasi 1a.3
+   * Aplikasi 1a.1
    * Aplikasi 1a.2
- - Aplikasi 1b 
+ - Aplikasi 1b
+- Aplikasi A
 - Aplikasi 2
 - Aplikasi 3
- - Aplikasi 3a
+  - Aplikasi 3a
 - Aplikasi 4
+- Aplikasi 5
 - dst.
